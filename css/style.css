@@ -8464,7 +8464,7 @@ h1, h2, h3, h4, h5,
           box-shadow: 20px -20px 69px -27px rgba(0, 0, 0, 0.16); }
           .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay, .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay-1 {
             position: absolute;
-            left: -7%;
+            left: 3%;
             background: #fff;
             width: 150px;
             height: 50%;
