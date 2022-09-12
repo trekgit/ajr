@@ -9209,7 +9209,7 @@ textarea.form-control {
     height: 40px;
     width: 40px;
     display: block;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgb(94 89 89);
     border-radius: 50%;
     position: relative; }
     .ftco-footer-social li a span {
